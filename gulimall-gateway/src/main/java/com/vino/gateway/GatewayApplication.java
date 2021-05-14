@@ -4,6 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
+ * <p>
+ * 网关主程序
+ * </p>
+ *
  * @author Vino
  * @version 1.0.0
  * @since 1.0.0
