@@ -9,9 +9,9 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>cart</module>
-        <module>gateway</module>
-        <module>order</module>
+        <module>gulimall-cart</module>
+        <module>gulimall-gateway</module>
+        <module>gulimall-order</module>
         <module>gulimall-common</module>
     </modules>
 
